@@ -6,7 +6,7 @@
   <link href="https://augustuxue.github.io/atom.xml" rel="self"/>
   
   <link href="https://augustuxue.github.io/"/>
-  <updated>2021-08-15T17:26:07.239Z</updated>
+  <updated>2021-08-16T08:33:20.109Z</updated>
   <id>https://augustuxue.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>二十了</title>
+    <link href="https://augustuxue.github.io/posts/6753b9b7/"/>
+    <id>https://augustuxue.github.io/posts/6753b9b7/</id>
+    <published>2021-08-16T08:29:37.000Z</published>
+    <updated>2021-08-16T08:33:20.109Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h1 id="二十了"><a href="#二十了" class="headerlink" title="二十了"></a>二十了</h1><p>​    感觉非常正常的一天，早上看了眼手机，米板5还在运输中，明天就到，从未有过这种期盼生日早日过去的感觉，哈哈</p><p>​    <img src="https://gitee.com/augustusxue/augustu_image/raw/master/img/202108161547153.png" loading="lazy"></p><p>​    中午随便去门口买了个冷菜，今天不想做饭了，犒劳一下自己！常买的那家找不到了，换了另一家真一般，同样是20元的肉又少又难吃，但谁让我懒呢，还好有汤，西红柿鸡蛋汤yyds</p><p>​    下午看见国栋的博客，突然想起来我的，捣鼓捣鼓把之前写的一个小记录分享了，又重新搞了个域名解析，差点都忘了</p><p>​    又是普通的一天，恰如我普通的二十年</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css&quot;&gt;&lt;scrip</summary>
+      
+    
+    
+    
+    
+    <category term="分享" scheme="https://augustuxue.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="随笔" scheme="https://augustuxue.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>PicGo+gitee自建图床</title>
